@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266687674640",
+    "project_id": "khetiapp-38bd7",
+    "storage_bucket": "khetiapp-38bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266687674640:android:71d68d4ab504125b9d0d95",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJZxiDz9nkEhkF5fxasJQ3zjoEdNJhSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
